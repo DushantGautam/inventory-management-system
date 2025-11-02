@@ -1,6 +1,3 @@
-# inventory-management-system
-A web-based Inventory Management System for tracking products, stock, and suppliers using PHP and MySQL.
-
 # Inventory Management System (PHP & MySQL) 
 
 ![Built with PHP](https://img.shields.io/badge/Built%20with-PHP-777BB4?logo=php&logoColor=white)
@@ -146,9 +143,10 @@ C:\xampp\htdocs\inventory-system-php
 
 ---
 
-## 📹 Live Demo & Source Links
-- **GitHub Repository:** [Your GitHub Repository Link Here]  
-- **Live Demo (YouTube):** [Your YouTube Demo Link Here]
+## 🎥 Live Demo
+Watch the full demo video on YouTube:  
+[👉 Click Here to Watch the Project Demo](https://www.youtube.com/your-video-link)
+
 
 ---
 
