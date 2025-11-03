@@ -153,8 +153,8 @@ Watch the full demo video on YouTube:
 
 ## 📜 License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE.txt)  
-This project is licensed under the MIT License — see the [LICENSE file](./LICENSE.txt) for details.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)  
+This project is licensed under the MIT License — see the [LICENSE file](./LICENSE) for details.
 
 Copyright (c) 2015 **Siamon Hasan**
 
