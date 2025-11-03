@@ -167,6 +167,14 @@ This project is licensed under the **MIT License** — see the [license.txt](./l
 This project is licensed under the terms of the [MIT License](./LICENSE).
 
 ---
+## 🛠️ Tech Stack & Tools
+
+[![Built with PHP](https://img.shields.io/badge/Built%20with-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
+[![Database](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Frontend](https://img.shields.io/badge/Frontend-HTML%2C%20CSS%2C%20JS-orange)](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
+[![Backend](https://img.shields.io/badge/Backend-PHP-blue)](https://www.php.net/)
+[![Deployed with XAMPP](https://img.shields.io/badge/Deployed%20with-XAMPP-brightgreen)](https://www.apachefriends.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 
 ## 📜 License
@@ -175,6 +183,14 @@ This project is licensed under the terms of the [MIT License](./LICENSE).
 This project is licensed under the MIT License — see the [LICENSE file](./LICENSE.txt) for details.
 
 Copyright (c) 2015 **Siamon Hasan**
+## 🛠️ Tech Stack
+
+[![Built with PHP](https://img.shields.io/badge/Built%20with-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
+[![Database](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Frontend](https://img.shields.io/badge/Frontend-HTML%2C%20CSS%2C%20JS-orange)](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
+[![Backend](https://img.shields.io/badge/Backend-PHP-blue)](https://www.php.net/)
+[![Deployed with XAMPP](https://img.shields.io/badge/Deployed%20with-XAMPP-brightgreen)](https://www.apachefriends.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 ---
 
