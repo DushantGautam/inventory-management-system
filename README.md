@@ -2,7 +2,7 @@
 
 [![Built with PHP](https://img.shields.io/badge/Built%20with-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 [![Database](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
-![Language: SQL](https://img.shields.io/badge/Language-SQL-003B57?logo=database&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Language: SQL](https://img.shields.io/badge/Language-SQL-003B57?logo=database&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Frontend](https://img.shields.io/badge/Frontend-HTML%2C%20CSS%2C%20JS-orange)](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 [![Backend](https://img.shields.io/badge/Backend-PHP-blue)](https://www.php.net/)
 [![Deployed with XAMPP](https://img.shields.io/badge/Deployed%20with-XAMPP-brightgreen)](https://www.apachefriends.org/)
