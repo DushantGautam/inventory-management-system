@@ -1,11 +1,11 @@
 # Inventory Management System (PHP & MySQL) 
 
-![Built with PHP](https://img.shields.io/badge/Built%20with-PHP-777BB4?logo=php&logoColor=white)
-![Database](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Frontend](https://img.shields.io/badge/Frontend-HTML%2C%20CSS%2C%20JS-orange)
-![Backend](https://img.shields.io/badge/Backend-PHP-blue)
-![Deployed%20with-XAMPP-brightgreen](https://img.shields.io/badge/Deployed%20with-XAMPP-brightgreen)
+[![Built with PHP](https://img.shields.io/badge/Built%20with-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
+[![Database](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Frontend](https://img.shields.io/badge/Frontend-HTML%2C%20CSS%2C%20JS-orange)](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
+[![Backend](https://img.shields.io/badge/Backend-PHP-blue)](https://www.php.net/)
+[![Deployed with XAMPP](https://img.shields.io/badge/Deployed%20with-XAMPP-brightgreen)](https://www.apachefriends.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 
 
@@ -150,32 +150,6 @@ Watch the full demo video on YouTube:
 
 ---
 
-## 🧾 License
-This project is licensed under the **MIT License** — see the [license.txt](./license.txt) file for details.  
-## 🛠️ Tech Stack
-
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) 
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/)
-
----
-
-## 📄 License
-This project is licensed under the terms of the [MIT License](./LICENSE).
-
----
-## 🛠️ Tech Stack & Tools
-
-[![Built with PHP](https://img.shields.io/badge/Built%20with-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
-[![Database](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Frontend](https://img.shields.io/badge/Frontend-HTML%2C%20CSS%2C%20JS-orange)](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
-[![Backend](https://img.shields.io/badge/Backend-PHP-blue)](https://www.php.net/)
-[![Deployed with XAMPP](https://img.shields.io/badge/Deployed%20with-XAMPP-brightgreen)](https://www.apachefriends.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-
 
 ## 📜 License
 
@@ -183,14 +157,9 @@ This project is licensed under the terms of the [MIT License](./LICENSE).
 This project is licensed under the MIT License — see the [LICENSE file](./LICENSE.txt) for details.
 
 Copyright (c) 2015 **Siamon Hasan**
-## 🛠️ Tech Stack
 
-[![Built with PHP](https://img.shields.io/badge/Built%20with-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
-[![Database](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Frontend](https://img.shields.io/badge/Frontend-HTML%2C%20CSS%2C%20JS-orange)](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
-[![Backend](https://img.shields.io/badge/Backend-PHP-blue)](https://www.php.net/)
-[![Deployed with XAMPP](https://img.shields.io/badge/Deployed%20with-XAMPP-brightgreen)](https://www.apachefriends.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
+
 
 ---
 
