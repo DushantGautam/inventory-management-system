@@ -146,7 +146,7 @@ C:\xampp\htdocs\inventory-system-php
 
 ## 🎥 Live Demo
 Watch the full demo video on YouTube:  
-[👉 Click Here to Watch the Project Demo](https://www.youtube.com/your-video-link)
+[👉 Click Here to Watch the Project Demo](https://youtu.be/YUnT50Zc3O8)
 
 
 ---
